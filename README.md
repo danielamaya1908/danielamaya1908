@@ -1,4 +1,4 @@
-Soy Daniell Amaya, un apasionado Desarrollador Full Stack especializado en Front-end y Back-end. Mi trayectoria en el mundo de la tecnología comenzó como técnico de soporte, y a lo largo de mi camino, me he convertido en un creador de soluciones impactantes a través del desarrollo de software.
+Soy Daniel Amaya, un apasionado Desarrollador Full Stack especializado en Front-end y Back-end. Mi trayectoria en el mundo de la tecnología comenzó como técnico de soporte, y a lo largo de mi camino, me he convertido en un creador de soluciones impactantes a través del desarrollo de software.
 
 Mis habilidades abarcan un amplio espectro de tecnologías, incluyendo:
 
