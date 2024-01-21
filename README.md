@@ -1,16 +1,25 @@
-### Hi there 👋
+Soy Daniell Amaya, un apasionado Desarrollador Full Stack especializado en Front-end y Back-end. Mi trayectoria en el mundo de la tecnología comenzó como técnico de soporte, y a lo largo de mi camino, me he convertido en un creador de soluciones impactantes a través del desarrollo de software.
 
-<!--
-**danielamaya1908/danielamaya1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mis habilidades abarcan un amplio espectro de tecnologías, incluyendo:
 
-Here are some ideas to get you started:
+    Javascript
+    React
+    React Native
+    Node
+    TypeScript
+    PHP
+    Laravel
+    Express
+    PostgreSQL
+    MySQL
+    Sequelize
+    Metodologías ágiles (SCRUM, KANBAN)
+    GIT
+    Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encanta trabajar en equipo y colaborar para ayudar a alcanzar metas comunes. Mi enfoque dedicado y entusiasta se refleja en la creación de soluciones prácticas que mejoran la experiencia del usuario.
+
+Siempre estoy abierto a nuevas conexiones y emocionado por enfrentar desafíos en el mundo del desarrollo de software. Puedes contactarme a través de:
+
+    📧 Email: danijcdm.com@gmail.com
+    📲 Teléfono: +57 3103311844
